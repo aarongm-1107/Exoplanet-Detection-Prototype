@@ -64,7 +64,7 @@ XGBoost: Highly efficient and powerful, often achieving the best accuracy, but r
 ---
 
 ## Video Demonstration 
-- *this is the live recording of our working model - https://drive.google.com/drive/folders/197fyryEDrGqGp_JcHExDjvJGOxaF4sVB
+- *this is the live recording of our working model - https://drive.google.com/file/d/1iTmttCQ04ChX4MDsr3fKMNha0BLiG3z1/view?usp=sharing
 
 ## ✨ Unique Features of Our Prototype
 
