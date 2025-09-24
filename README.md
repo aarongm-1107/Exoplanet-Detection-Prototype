@@ -1,5 +1,5 @@
 ## 🚩 Problem Statement
-Our initial goal was to solve the *“cosmic haystack”*
+Our initial goal was to solve the ***“cosmic haystack”***
 problem: finding exoplanet “needles” hidden in vast datasets.
 
 While AI can detect candidates, scientists still face the *slow, manual process* of verifying each one.
