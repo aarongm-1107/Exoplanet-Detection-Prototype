@@ -63,6 +63,9 @@ XGBoost: Highly efficient and powerful, often achieving the best accuracy, but r
 
 ---
 
+## Video Demonstration 
+- *this is the live recording of our working model - https://drive.google.com/drive/folders/197fyryEDrGqGp_JcHExDjvJGOxaF4sVB
+
 ## ✨ Unique Features of Our Prototype
 
 - *Automated Pipeline:* End-to-end process from data preprocessing to classification.
