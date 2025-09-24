@@ -26,7 +26,7 @@ Our prototype aims to balance *speed, accuracy, and interpretability* — .
 
 ---
 
-## model comparison
+## Model comparison
 The aim of this comparison was to evaluate different algorithms based on performance, accuracy, and efficiency. Each model was trained, tested, and benchmarked to understand its strengths and weaknesses in handling the dataset.
 
 🔍 Key Insights
